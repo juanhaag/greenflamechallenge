@@ -15,7 +15,7 @@ Esta documentación proporciona instrucciones para la instalación y uso de un p
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-git clone git@github.com:juanhaag/greenflamechallenge.git discount-panel
+git clone https://github.com/juanhaag/greenflamechallenge discount-panel
 cd discount-panel
 ```
 ### Paso 2: Instalar Dependencias
