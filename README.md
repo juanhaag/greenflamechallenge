@@ -1,7 +1,7 @@
 # Documentación de Panel con Laravel para administrar descuentos
 
 ## Introducción
-Esta documentación proporciona instrucciones para la instalación y uso de un panel administrativo desarrollado con PHP 8.1, Laravel 10.22 y el paquete Filament 3.0, puede optar realizar la instalacion y ver el deploy en el siguiente link: [DEPLOY](https://www.google.com) el mismo se encuentra alojado en un servidor UBUNTU, en caso de ingresar por el deploy oprima [Uso del panel](#uso-del-panel)
+Esta documentación proporciona instrucciones para la instalación y uso de un panel administrativo desarrollado con PHP 8.1, Laravel 10.22 y el paquete Filament 3.0, puede optar realizar la instalacion y ver el deploy en el siguiente link: [DEPLOY](http://serverfantasy.ddns.net:8000/admin/) el mismo se encuentra alojado en un servidor UBUNTU, en caso de ingresar por el deploy oprima [Uso del panel](#uso-del-panel)
 
 ## Requisitos 
 
