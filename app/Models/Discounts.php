@@ -23,7 +23,7 @@ class Discounts extends Model
 
     public function region()
     {
-        return $this->belongsTo(Regions::class, 'region_id','code');
+        return $this->belongsTo(Region::class, 'region_id','code');
     }
 
     public function brand()
