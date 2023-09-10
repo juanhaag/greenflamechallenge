@@ -44,7 +44,7 @@ Esta documentación proporciona una visión general de la estructura de carpetas
 
 La mayor parte de la lógica de la aplicación se encuentra en la carpeta `app`, específicamente en las siguientes ubicaciones:
 
-- **app/Filament**: En esta carpeta se encuentra la configuración y personalización de Filament, que es un paquete de administración para Laravel. Filament proporciona un panel de administración intuitivo y poderoso para gestionar recursos.
+- **app/Filament**: En esta carpeta se encuentra la configuración y personalización de Filament, que es un paquete de administración para Laravel.
 
 - **app/Filament/Resources**: Aquí se crea el recurso "Descuento" y se establecen las relaciones con los rangos de aplicación de descuentos. La estructura de archivos dentro de esta carpeta determina cómo se mostrarán y gestionarán los recursos en el panel de administración de Filament.
 
