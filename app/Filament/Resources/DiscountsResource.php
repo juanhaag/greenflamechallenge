@@ -83,7 +83,7 @@ class DiscountsResource extends Resource
                 Tables\Columns\TextColumn::make('brand.name')
                     ->label('Brand Name')
                     ->sortable(),
-                      Tables\Columns\TextColumn::make('regions.code')
+                      Tables\Columns\TextColumn::make('region.code')
                     ->label('Region')
                     ->sortable(),
                 Tables\Columns\TextColumn::make('name')
